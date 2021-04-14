@@ -44,3 +44,10 @@ input {
 .col-xl {
     width: 100%;
 }
+
+.btn-enviar {
+    background: rgb(143, 34, 231);
+    color: white;
+    margin: auto;
+    margin-top: 10px;
+}
