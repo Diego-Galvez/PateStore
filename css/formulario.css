@@ -7,7 +7,7 @@
 }
 
 .form-titulo {
-    background: rgb(143, 34, 231);
+    background: rgb(64, 34, 231);
     font-family: cursive;
     text-align: center;
     padding: 15px;
@@ -46,7 +46,7 @@ input {
 }
 
 .btn-enviar {
-    background: rgb(143, 34, 231);
+    background: rgb(64, 34, 231);
     color: white;
     margin: auto;
     margin-top: 10px;
