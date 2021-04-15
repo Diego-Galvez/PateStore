@@ -13,11 +13,22 @@
     flex-wrap: wrap;
 }
 
-.info-productos img {
+.info-productos > img {
     width: 180px;
     height: 180px;
     border: solid 7px white;
-    border-radius: 50%;
+    object-fit: cover;
+    border-radius: 30%;
+    transition: all 0.5s;
+}
+
+.info-productos > article > img:hover {
+    border-radius: 0;
+    transform: scale(1.1);
+}
+
+.info-productos > article > img:active {
+    border-radius:50%;
 }
 
 .info-productos {
