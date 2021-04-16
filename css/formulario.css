@@ -9,16 +9,16 @@
 .form-titulo {
     background: rgb(255, 255, 255);
     font-family: Cambria;
-    text-align: flex-start;
+    text-align: center;
     padding: 15px;
-    border-bottom: solid 5px black;
+    border-bottom: solid 5px rgb(255, 255, 255);
     border-radius: 15px 15px 0px 0px;
 }
 
 .form-registro {
     width: 95%;
     margin: 10px;
-    background: white;
+    background: rgb(255, 255, 255);
     max-width: 500px;
     border-radius: 15px;
 }
