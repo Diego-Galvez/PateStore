@@ -5,6 +5,10 @@
     margin: 20px 0px;
 }
 
+#bienvenida p{
+    margin: 2px;
+}
+
 #bienvenida ul {
     margin: 20px;
 }
