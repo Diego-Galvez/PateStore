@@ -16,7 +16,7 @@
 .info-productos a > img {
     width: 180px;
     height: 180px;
-    border: solid 7px white;
+    border: solid 7px rgb(0, 0, 0);
     object-fit: cover;
     border-radius: 30%;
     transition: all 0.5s;
